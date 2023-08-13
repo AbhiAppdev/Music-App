@@ -1,0 +1,16 @@
+{
+  "name": "Name",
+  "artist": "Artist",
+  "album_name": "Album Name",
+  "explicit": "Explicit",
+  "rating": "Rating",
+  "lyrics": "Lyrics",
+  "no_bookmark_available": "No bookmark available.",
+  "bookmarks": "BookMarks",
+  "no_data_available": "No data available.",
+  "no_internet_connection_msg": "No internet connection.",
+  "false_": "false",
+  "true_": "true",
+  "track_details": "Track Details",
+  "track_list": "TrackList"
+}
